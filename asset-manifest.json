@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/2023-jersey-flag/static/css/main.91b09c93.css",
+    "main.js": "/2023-jersey-flag/static/js/main.39b14215.js",
+    "static/js/787.9168b54a.chunk.js": "/2023-jersey-flag/static/js/787.9168b54a.chunk.js",
+    "static/media/flag-1x.png": "/2023-jersey-flag/static/media/flag-1x.e5acaf18e8bcd6b41e92.png",
+    "static/media/insta.svg": "/2023-jersey-flag/static/media/insta.e991d6acf683c566b0b4a4700294ea28.svg",
+    "index.html": "/2023-jersey-flag/index.html",
+    "main.91b09c93.css.map": "/2023-jersey-flag/static/css/main.91b09c93.css.map",
+    "main.39b14215.js.map": "/2023-jersey-flag/static/js/main.39b14215.js.map",
+    "787.9168b54a.chunk.js.map": "/2023-jersey-flag/static/js/787.9168b54a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b09c93.css",
+    "static/js/main.39b14215.js"
+  ]
+}
